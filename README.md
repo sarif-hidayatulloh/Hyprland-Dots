@@ -106,6 +106,7 @@ sh <(curl -L https://raw.githubusercontent.com/LinuxBeginnings/Hyprland-Dots/mai
 ### 💥 Copying / Installation / Update instructions 💥
 
 - [`MORE INFO HERE`](https://github.com/LinuxBeginnings/Hyprland-Dots/wiki/Install_&_Update)
+- 📖 **[How the scripts work](./docs/how-it-works.md)** – detailed end-to-end script flow, side effects, safe-run guidance, and revert instructions
   > [!Note]
   > The auto copy script `copy.sh` will create backups of intended directories to be copied.
   > However, it's still a good idea to manually backup just incase script fails to backup your configuration.
